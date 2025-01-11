@@ -11,3 +11,4 @@ Background:
     Then user logs out
     Then user navigates to page "Sign In"
     Then user log in with existing username and password
+
